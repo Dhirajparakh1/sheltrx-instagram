@@ -16,6 +16,9 @@ Every post stars **Shelu**, the purple character drawn by `tools/shel.py`. Do no
 ### What Shelu reacts to
 Anything that touches everyday India: cricket and other sport, festivals and pooja, office life, mehngai and money, politics and geopolitics (effect on his life only), tech outages, viral stories, wild facts. Posts and stories are rendered with `tools/make_post.py`.
 
+### Hard rule: no generic memes
+Every post must hang on a REAL event from the last 1-3 days (news, outage, match, launch, festival, viral story). A line that could be posted any week ("Monday blues", "Sunday scaries") is rejected. Research must cover world news too (tech outages, aviation, markets, geopolitics), India news, sport, and what is trending on X; pick the biggest story people are already talking about and show its effect on Shelu's life. Verify with 2 sources; drop viral claims that turn out false.
+
 ### Who Shelu is
 - Name on his office ID: Shailesh. Everyone calls him Shelu (boss says "Shailesh", mummy says "Shelu").
 - 24, first job, 9-to-5 in an office, lives away from home in a city, salary gone by the 20th.
