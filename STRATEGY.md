@@ -4,6 +4,21 @@ Account: @sheltrx (Instagram Professional), posted through the Windsor.ai connec
 Audience: everyone, Zomato-style. Relate everyday life to where people live: PG, hostel, flat, housing society, gate, guard, neighbours, deliveries, visitors. Brand page, not an information page.
 Approval: nothing is posted without Dhiraj's explicit "approve" in the Claude app.
 
+## Content: the character (LOCKED)
+
+Every post stars **Shel** (working name), the purple character drawn by `tools/shel.py`. Do not redesign him; reference sheet: `brand/shel_character_sheet.jpg`.
+
+- He is 24, an office guy with a daily 9-to-5 and everyday problems.
+- Each post: something happening in the world (trend, big news, geopolitics, viral story, a wild fact) shown through how it hits HIS ordinary life.
+- The SheltrX product is never shown or pitched. Only the small "sheltrx" name on each post. The page should make people curious about what SheltrX is.
+- Language: Hinglish.
+
+Guardrails (proposed, pending Dhiraj's confirmation):
+- No taking sides on parties, politicians or religion; only the effect of news on his life.
+- No jokes about tragedies, deaths or disasters.
+- Every news item and fact is verified against a source before posting; the source link goes to Dhiraj with the approval request.
+- On trend days, the 4 PM run offers 2-3 options; Dhiraj picks one.
+
 ## Schedule (all times IST)
 
 | What | When | Approval request sent |
