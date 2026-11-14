@@ -19,6 +19,16 @@ Anything that touches everyday India: cricket and other sport, festivals and poo
 ### Hard rule: no generic memes
 Every post must hang on a REAL event from the last 1-3 days (news, outage, match, launch, festival, viral story). A line that could be posted any week ("Monday blues", "Sunday scaries") is rejected. Research must cover world news too (tech outages, aviation, markets, geopolitics), India news, sport, and what is trending on X; pick the biggest story people are already talking about and show its effect on Shelu's life. Verify with 2 sources; drop viral claims that turn out false.
 
+### Research checklist (do this BEFORE designing any post)
+Search first, design second. Every run checks all of these for the last 1-3 days and lists what it found:
+1. India: top national news, anything everyone is talking about.
+2. World: big global stories that reach India (tech outages, flights, wars' effect on prices, markets, big launches).
+3. Cricket and other sport: yesterday's result, today's match, upcoming big game, squad news.
+4. Money: petrol, prices, rupee, salaries, layoffs, tax.
+5. Viral: what is trending on X and Instagram in India, viral videos and stories.
+6. Calendar: festivals, exams, results, long weekends.
+Pick by importance and how many people already know the story, not by how easy the joke is.
+
 ### Who Shelu is
 - Name on his office ID: Shailesh. Everyone calls him Shelu (boss says "Shailesh", mummy says "Shelu").
 - 24, first job, 9-to-5 in an office, lives away from home in a city, salary gone by the 20th.
