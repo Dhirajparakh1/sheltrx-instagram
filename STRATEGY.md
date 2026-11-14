@@ -13,6 +13,9 @@ Every post stars **Shelu**, the purple character drawn by `tools/shel.py`. Do no
 - The SheltrX product is never shown or pitched. Only the small "sheltrx" name on each post. The page should make people curious about what SheltrX is.
 - Language: Hinglish.
 
+### What Shelu reacts to
+Anything that touches everyday India: cricket and other sport, festivals and pooja, office life, mehngai and money, politics and geopolitics (effect on his life only), tech outages, viral stories, wild facts. Posts and stories are rendered with `tools/make_post.py`.
+
 ### Who Shelu is
 - Name on his office ID: Shailesh. Everyone calls him Shelu (boss says "Shailesh", mummy says "Shelu").
 - 24, first job, 9-to-5 in an office, lives away from home in a city, salary gone by the 20th.
