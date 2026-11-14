@@ -1,4 +1,4 @@
-"""Shel: the SheltrX page character. LOCKED LOOK - do not redesign.
+"""Shelu: the SheltrX page character. LOCKED LOOK - do not redesign.
 
 A purple (#6856E6) rounded-dome body, two big white oval eyes with navy pupils,
 navy brows, soft darker-purple cheeks, round purple hands. Flat style, no outlines
@@ -84,7 +84,7 @@ if __name__ == "__main__":
              ("annoyed", ("laptop",), "Chidha hua"), ("sad", (), "Udaas"), ("thinking", ("chai",), "Soch raha hai"), ("phone", (), "Phone mein")]
     W, H = 2160, 1500
     svg = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}"><rect width="{W}" height="{H}" fill="#F4F2FF"/>']
-    svg.append(f'<text x="80" y="120" font-family="Poppins" font-weight="700" font-size="72" fill="{NAVY}">Shel: character sheet</text>')
+    svg.append(f'<text x="80" y="120" font-family="Poppins" font-weight="700" font-size="72" fill="{NAVY}">Shelu: character sheet</text>')
     for i, (ex, pr, lab) in enumerate(cells):
         x = 80 + (i % 4) * 510; y = 190 + (i // 4) * 640
         svg.append(f'<rect x="{x}" y="{y}" width="470" height="590" rx="28" fill="#fff"/>')
