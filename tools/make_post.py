@@ -36,16 +36,17 @@ def render(spec, out, story=False):
     if scene == "bed":
         s.append(f'<path d="M120 940 h840 a30 30 0 0 1 30 30 v90 h-900 v-90 a30 30 0 0 1 30 -30z" fill="{t["soft"]}"/><rect x="90" y="1050" width="900" height="50" rx="14" fill="{t["furn"]}"/>')
     elif scene == "desk":
-        s.append(f'<rect x="60" y="940" width="960" height="46" rx="14" fill="{t["furn"]}"/><rect x="130" y="986" width="40" height="120" fill="{t["furn"]}"/><rect x="910" y="986" width="40" height="120" fill="{t["furn"]}"/>')
+        s.append(f'<rect x="60" y="940" width="960" height="46" rx="14" fill="{t["furn"]}"/><rect x="130" y="986" width="40" height="50" fill="{t["furn"]}"/><rect x="910" y="986" width="40" height="50" fill="{t["furn"]}"/>')
     else:
         s.append(f'<ellipse cx="540" cy="948" rx="250" ry="22" fill="{t["furn"]}"/>')
     s.append("</g></g></svg>")
     lines = spec["line"].split("\n")
-    size = 58 if max(len(x) for x in lines) <= 30 else 50
+    m = max(len(x) for x in lines)
+    size = 58 if m <= 28 else (46 if m <= 38 else 40)
     cap = "".join(f"<div>{x}</div>" for x in lines)
     bottom = (330 if story else 150)
     html = (f"<!doctype html><meta charset='utf-8'><style>*{{margin:0}}body{{width:{W}px;height:{H}px;position:relative;overflow:hidden}}"
-            f".cap{{position:absolute;left:70px;right:70px;bottom:{bottom}px;text-align:center;color:{t['fg']};font:600 {size}px/1.3 Poppins}}"
+            f".cap{{position:absolute;left:50px;right:50px;bottom:{bottom}px;text-align:center;color:{t['fg']};font:600 {size}px/1.3 Poppins}}"
             f".w{{position:absolute;left:0;right:0;bottom:{bottom-90}px;text-align:center;color:{t['sub']};font:600 32px Poppins;letter-spacing:1px}}</style>"
             f"<body>{''.join(s)}<div class='cap'>{cap}</div><div class='w'>sheltrx</div></body>")
     tmp = tempfile.mkdtemp(); h = os.path.join(tmp, "p.html"); png = os.path.join(tmp, "p.png")
