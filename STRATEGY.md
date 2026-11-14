@@ -38,7 +38,7 @@ Guardrails (confirmed by Dhiraj):
 
 | What | When | Approval request sent |
 | --- | --- | --- |
-| Feed post (carousel or single image, no reels for now) | Mon, Wed, Fri, Sun at 7:00 PM | Same day, 4:00 PM |
+| Feed post (carousel or single image, no reels for now) | Mon, Wed, Fri, Sun at 7:00 PM | Same day, by 12:00 noon |
 | Story of that post (9:16 cover + "Naya post feed par") | Right after the post goes live | Together with the post |
 | Festival / special-day story from SheltrX | 7:00 AM on the day | 12:00 AM (midnight) the night before |
 | Monthly list of festivals and special days | Start of every month | Dhiraj approves the list |
