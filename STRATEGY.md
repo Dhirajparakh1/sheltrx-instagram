@@ -1,7 +1,7 @@
 # SheltrX Instagram strategy
 
 Account: @sheltrx (Instagram Professional), posted through the Windsor.ai connector.
-Audience: PG / hostel residents and students.
+Audience: everyone, Zomato-style. Relate everyday life to where people live: PG, hostel, flat, housing society, gate, guard, neighbours, deliveries, visitors. Brand page, not an information page.
 Approval: nothing is posted without Dhiraj's explicit "approve" in the Claude app.
 
 ## Schedule (all times IST)
