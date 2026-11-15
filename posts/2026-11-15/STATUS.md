@@ -1,4 +1,4 @@
-status: APPROVED (post and caption approved by Dhiraj on 15 Nov, 11:50 AM IST; publish at 19:00 IST)
+status: POSTED (feed post media id 18346381015258697, story media id 18003806178032055; published 15 Nov, 7:01 PM IST; approved by Dhiraj 11:50 AM IST)
 post_time: 2026-11-15 19:00 IST
 sources:
 - Microsoft outage (Outlook, Teams; began Thu 12 Nov, eased Fri 13 Nov): https://www.washingtonpost.com/technology/2026/11/13/microsoft-races-address-outage-affecting-users-around-world/
