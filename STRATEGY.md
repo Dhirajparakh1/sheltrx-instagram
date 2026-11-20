@@ -4,7 +4,15 @@ Account: @sheltrx (Instagram Professional), posted through the Windsor.ai connec
 Audience: everyone, Zomato-style. Relate everyday life to where people live: PG, hostel, flat, housing society, gate, guard, neighbours, deliveries, visitors. Brand page, not an information page.
 Approval: nothing is posted without Dhiraj's explicit "approve" in the Claude app.
 
-## Content: the character (LOCKED)
+## DIRECTION RESET (20 Nov 2026, decided by Dhiraj)
+
+The 2D flat character posts were judged childish and dated. Posting is PAUSED (the "Shelu post approval" scheduled task is disabled) until the new direction is final.
+
+- Motive: "Ye page smart hai". The page explains what the news actually means for an ordinary person, sharp and direct, like a clever friend. Insight first; humour only if it comes naturally.
+- Look: a modern 3D / clay version of the character. This cannot be rendered with tools/shel.py; it needs an AI image tool or a designer. tools/shel.py and tools/make_post.py are the OLD look and must not be used for new posts.
+- Everything below this section (character as a 2D drawing, one-line jokes) is superseded where it conflicts.
+
+## Content: the character (LOCKED, old 2D version)
 
 Every post stars **Shelu**, the purple character drawn by `tools/shel.py`. Do not redesign him; reference sheet: `brand/shel_character_sheet.jpg`.
 
